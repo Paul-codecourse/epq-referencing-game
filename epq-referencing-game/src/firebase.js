@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "YOUR_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "XXXX",
-  appId: "XXXX"
+  apiKey: "AIzaSyBaApIrs7RzN7dGhaUOMCjNMyHLqVbZKwM",
+  authDomain: "epq-referencing-game.firebaseapp.com",
+  projectId: "epq-referencing-game",
+  storageBucket: "epq-referencing-game.firebaseapp.com",
+  messagingSenderId: "579396666550",
+  appId: "1:579396666550:web:575dc2d6887bb1a8e51217"
 };
 
 const app = initializeApp(firebaseConfig);
